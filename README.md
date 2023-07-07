@@ -9,12 +9,12 @@ Also for datasets containing large values, the time complexity increased. The mo
 # Hate Speech Recognition using Decision Tree Classifier
 
 To achieve the hate speech predictor, we aim to employ the following steps: -
-Create a simple machine learning model i.e. Decision Tree
-Gather a small twitter data set containing “English Language” as their script.
-train the model to recognise language and predict further features using Natural Language Processing.
-Carry out learning algorithms to train the model for better accuracy.
-Testing and predicting languages consistently.
-Rectify errors
+1. Create a simple machine learning model i.e. Decision Tree
+2. Gather a small twitter data set containing “English Language” as their script.
+3. train the model to recognise language and predict further features using Natural Language Processing.
+4. Carry out learning algorithms to train the model for better accuracy.
+5. Testing and predicting languages consistently.
+6. Rectify errors
 
 ## Functionality of proposed solution
 The proposed solution provides output in 3 formats :-
