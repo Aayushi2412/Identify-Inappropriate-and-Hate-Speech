@@ -5,8 +5,8 @@ People spend a lot of time on social media, with this comes into light, a great 
 The accuracy of detecting fake news using Naive Bayes algorithm , was only 67.33% .Therefore some articles are predicted as false.
 Also for datasets containing large values, the time complexity increased. The model took longer than usual time for calculation.
 
-### Proposed Solution
-**Hate Speech Recognition using Decision Tree Classifier**
+## Proposed Solution
+# Hate Speech Recognition using Decision Tree Classifier
 
 To achieve the hate speech predictor, we aim to employ the following steps: -
 Create a simple machine learning model i.e. Decision Tree
@@ -16,7 +16,7 @@ To achieve the hate speech predictor, we aim to employ the following steps: -
 Testing and predicting languages consistently.
 Rectify errors
 
-#### Functionality of proposed solution
+## Functionality of proposed solution
 The proposed solution provides output in 3 formats :-
 1. Hate Speech
 2. Offensive language
