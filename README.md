@@ -22,6 +22,10 @@ The proposed solution provides output in 3 formats :-
 2. Offensive language
 3. Neither
 
+## Output
+![image](https://github.com/Aayushi2412/Identify-Inappropriate-and-Hate-Speech/assets/106343054/caff5786-996f-4912-ba54-eaaeb8fb8e34)
+
+
 
 
 
